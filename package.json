@@ -1,0 +1,19 @@
+{
+  "name": "@definejs/mobile-app",
+  "version": "0.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "micty",
+  "email": "mictydeng@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/definejs/mobile-app.git"
+  },
+  "dependencies": {
+    "@definejs/app": "^0.1.0",
+    "@definejs/view-slider": "^0.1.1"
+  }
+}
